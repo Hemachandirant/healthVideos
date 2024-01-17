@@ -23,8 +23,9 @@ https://github.com/Hemachandirant/healthVideos/assets/83321708/2f36dea2-f1f8-412
 
 <img width="104" alt="image" src="https://github.com/Hemachandirant/healthVideos/assets/83321708/332e46a5-f041-4c42-8ffa-e7eed72cdcbf">
 
-<img width="105" alt="image" src="https://github.com/Hemachandirant/healthVideos/assets/83321708/21ca3075-f98f-4eda-90e9-6b042e793fd5">
 
+
+<img width="164" alt="Screenshot 2024-01-17 at 3 40 46 PM" src="https://github.com/Hemachandirant/healthVideos/assets/83321708/a965bfc0-653f-455b-bff9-33c9218d90e6">
 
 
 
